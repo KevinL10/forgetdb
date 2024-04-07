@@ -1,2 +1,3 @@
-# remembrance
-A vector database that forgets.
+# ForgetDB
+
+The vector database that forgets (tm).
